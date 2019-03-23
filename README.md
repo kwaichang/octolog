@@ -1,0 +1,2 @@
+# octolog
+octoprint log capture
